@@ -6,7 +6,7 @@ subtitle: Lets Connect!
 
 Myself Sarath Sreepraksh!
 
-Explorer by :heart:, Developer by profession.
+Explorer by :heart:, Developer by profession :briefcase:
 
 ### My story
 
