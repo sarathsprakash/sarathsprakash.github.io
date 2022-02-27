@@ -1,3 +1,3 @@
 # sarathsprakash.github.io
-Explorer by :heart: , Developer by profession :briefcase:
+Explorer by :heart: , Developer by :briefcase:
 

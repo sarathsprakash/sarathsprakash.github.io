@@ -4,7 +4,7 @@ title: About me
 subtitle: Lets Connect!
 ---
 
-Explorer by :heart:, Developer by profession :briefcase:
+Explorer by :heart:, Developer by :briefcase:
 
 ### My story
 
