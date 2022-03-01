@@ -10,7 +10,7 @@ Explorer by :heart:, Developer by :briefcase:
 
 
 :briefcase: **Senior Software Developer**<br />
-:office: *[Moving Picture Company, Bangalore](https://www.mpcfilm.com)                                            (April 2021 – Present)*<br /><br />
+:office: *[Moving Picture Company, Bangalore, :india:](https://www.mpcfilm.com)                                           (April 2021 – Present)*<br /><br />
 Responsible to architect and develop solutions, improvise existing methodologies to serve the demands of the
 Visual effects work-flow.
 * Architect and develop Infrastructure platform to share Kubernetes/micro-services components among multiple
@@ -22,7 +22,7 @@ network isolated business units.
 Prometheus, Grafana, Jaeger, Terraform, KIND
 
 :briefcase: **Software Developer**<br />
-:office: *[Moving Picture Company, Bangalore](https://www.mpcfilm.com)                               (December 2016 – March 2021)*<br /><br />
+:office: *[Moving Picture Company, Bangalore, :india:](https://www.mpcfilm.com)                           (December 2016 – March 2021)*<br /><br />
 Responsible for developing software to automate Visual effects pipeline and to manage the storage and flow of
 data throughout the workflow life cycle.
 * Development of cluster infrastructure integrated with the CI/CD pipeline which allows easy deployments and
@@ -37,7 +37,7 @@ infrastructure solutions to meet them.
 Terraform, Minikube, KIND
 
 :briefcase: **Sr. Web Data Programmer**<br />
-:office: *[Ugam Solutions, Mumbai](https://www.ugamsolutions.com)                                                    (April 2016 – November 2016)*<br /><br />
+:office: *[Ugam Solutions, Mumbai, :india:](https://www.ugamsolutions.com)                                                (April 2016 – November 2016)*<br /><br />
 Responsible for handling project requirements and develop scripts to scrape data from retail websites for data
 analytics.
 * Introduced methodologies and best practices that standardized the script development process and hence
@@ -47,7 +47,7 @@ enhancing the speed of scraping and customization of scripts to user needs.
 * **Technologies used:** Python, Php, MySQL, Kafka.
 
 :briefcase: **Web Data Programmer**<br />
-:office: *[Ugam Solutions, Mumbai](https://www.ugamsolutions.com)                                                  (October 2014 – March 2016)*<br /><br />
+:office: *[Ugam Solutions, Mumbai, :india:](https://www.ugamsolutions.com)                                              (October 2014 – March 2016)*<br /><br />
 Develop scripts in Python powered by Hadoop environment in order to scrape data from retail websites for data
 analytics.
 * Provided user requirement analysis, design and support for enhancing the scrape of millions of data.
@@ -55,7 +55,7 @@ analytics.
 * **Technologies used**: Python, Php, MySQL.
 
 :briefcase: **Software Engineer**<br />
-:office: *[Placelyrics (not registered)](https://placelyrics.com)                                       (December 2013 – September 2014)*<br /><br />
+:office: *[Placelyrics (not registered), Pune, :india:](https://placelyrics.com)                        (December 2013 – September 2014)*<br /><br />
 Worked as a Software Developer on a self-initiated project web-application (place based social networking)
 with three people team as a start-up.
 * Developed a web application to share information among people based on geographical location.
@@ -67,7 +67,7 @@ architecture of spreading information involving geographical locations.
 * **Technologies used** : Php, MySQL, JavaScript, jQuery,Neo4j, Node.js, Cypher
 
 :briefcase: **Project Student**<br />
-:office: *[C-DAC, Thiruvananthapuram](https://www.cdac.in)                                            (December 2012 – May 2013)*
+:office: *[C-DAC, Thiruvananthapuram, :india:](https://www.cdac.in)                                        (December 2012 – May 2013)*
 * Successfully completed final year academic project “English to Malayalam translation of web pages using Angla
 Bharati MT System” in real time.
 * Implemented algorithms for proper rendering of translated content with its corresponding html entities.
@@ -78,7 +78,7 @@ MT System.
 ## EDUCATION
 
 :mortar_board: **MSC. Software Systems**<br />
-:school: *[CMS College of Science and Commerce, Coimbatore](https://cmscollege.edu.in/sc/)                  (June 2008 – May 2013)*
+:school: *[CMS College of Science and Commerce, Coimbatore, :india:](https://cmscollege.edu.in/sc/)              (June 2008 – May 2013)*
 * GPA: 8.0
 * It’s a five year integrated course.
 * Coursework: Databases; Digital Computing; Data Structures, Programming Languages; Comp. Architecture;
